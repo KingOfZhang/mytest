@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  mytest
+//
+//  Created by 易云时代 on 2017/7/7.
+//  Copyright © 2017年 笑伟. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define SCREEN_WITH     (float)(320)/(float)320*[[UIScreen mainScreen]bounds].size.width
+
+#define SCREEN_HEIGHT     (float)(320)/(float)320*[[UIScreen mainScreen]bounds].size.height
+
+#define TimeLineCellHighlightedColor [UIColor colorWithRed:92/255.0 green:140/255.0 blue:193/255.0 alpha:1.0]
+#define SDColor(r, g, b, a) [UIColor colorWithRed:(r / 255.0) green:(g / 255.0) blue:(b / 255.0) alpha:a]
+#define TimeLineCellHighlightedColor [UIColor colorWithRed:92/255.0 green:140/255.0 blue:193/255.0 alpha:1.0]
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,20 @@
+PODS:
+  - SDAutoLayout (2.1.8)
+  - SDWebImage+ExtensionSupport (3.7.1.2):
+    - SDWebImage+ExtensionSupport/Core (= 3.7.1.2)
+  - SDWebImage+ExtensionSupport/Core (3.7.1.2)
+  - ZYQAssetPickerController (1.2.0)
+
+DEPENDENCIES:
+  - SDAutoLayout (~> 2.1.8)
+  - SDWebImage+ExtensionSupport (~> 3.7.1.2)
+  - ZYQAssetPickerController (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  SDAutoLayout: 5a4b48d6b8a5172ae8d088d2879e40dd795e6251
+  SDWebImage+ExtensionSupport: 72b57456f83ccd7996b258912c749a8275309b74
+  ZYQAssetPickerController: dc692a6fb421c0dc0efcabd43eb260cfb073f7fd
+
+PODFILE CHECKSUM: 6f63cacb92e2de71b35806d18890d3620c089222
+
+COCOAPODS: 1.3.0.beta.1
